@@ -3,5 +3,6 @@ public class hello{
         System.out.println("happy every");
 		System.out.println("happy myself");
         System.out.println("happy ruixin");
+		System.out.println("happy kang");
 	}
 }
